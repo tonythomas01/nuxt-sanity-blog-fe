@@ -1,15 +1,14 @@
 {
   "root": true,
   "project": {
-    "name": "My Sanity Project"
+    "name": "Tony Thomas Blog"
   },
   "api": {
-    "projectId": "9uddyopk",
+    "projectId": "7cbz4wtw",
     "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
-    "@sanity/components",
     "@sanity/default-layout",
     "@sanity/default-login",
     "@sanity/desk-tool"
