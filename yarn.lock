@@ -1349,12 +1349,12 @@
     webpack-node-externals "^3.0.0"
     webpackbar "^4.0.0"
 
-"@nuxtjs/sanity@^0.3.11":
-  version "0.3.11"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/sanity/-/sanity-0.3.11.tgz#4510ec9a37d47613356dd86fa16b9703a473848b"
-  integrity sha512-eXt/jMAWwfAKKQmg+cC3BG6Eulpd4yZ6oaKANjcbhGt+Btn13BTfIlxqL757nMdaCqMLKFPWVQQPwIAGVPlx0Q==
+"@nuxtjs/sanity@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/sanity/-/sanity-0.5.0.tgz#842e466fa34a2d7bf42e6648fef41f1c8103d2a8"
+  integrity sha512-G+nSzKMOIh/ZzM8I3697FwqdgWW4GriRR4McTzAoTD3zj6aJMnsoGjY1kgdpZsScd3MTuivsxJuB4BlHbVeImg==
   dependencies:
-    defu "3.1.0"
+    defu "3.2.2"
 
 "@nuxtjs/youch@^4.2.3":
   version "4.2.3"
@@ -3144,10 +3144,10 @@ define-property@^2.0.2:
     is-descriptor "^1.0.2"
     isobject "^3.0.1"
 
-defu@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/defu/-/defu-3.1.0.tgz#a6b5104cacc06aa1efa01923becddbedd32505e8"
-  integrity sha512-pc7vS4wbYFtsRL+OaLHKD72VcpOz9eYgzZeoLz9pCs+R8htyPdZnD1CxKP9ttZuT90CLPYFTSaTyc3/7v4gG9A==
+defu@3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/defu/-/defu-3.2.2.tgz#be20f4cc49b9805d54ee6b610658d53894942e97"
+  integrity sha512-8UWj5lNv7HD+kB0e9w77Z7TdQlbUYDVWqITLHNqFIn6khrNHv5WQo38Dcm1f6HeNyZf0U7UbPf6WeZDSdCzGDQ==
 
 defu@^4.0.1:
   version "4.0.1"
